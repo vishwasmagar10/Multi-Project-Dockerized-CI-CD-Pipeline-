@@ -132,9 +132,13 @@ vishwasmagar10/project-c:BUILD_NUMBER
 ---
 
 ## 📸 Screenshots
+### 🔹 Jenkins  Stages
 
-v
+![Jenkins Stages](images/jenkins.png)
 
+### 🔹 Docker Image Creation
+
+![Docker Images](images/docker.png)
 ---
 
 ## 🔥 Key Highlights
